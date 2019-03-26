@@ -1,0 +1,23 @@
+#lottie {
+    background-color: #fff;
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+    text-align: center;
+    opacity: 1;
+}
+
+.btnWrap {
+    display: flex;
+    width: 50%;
+    margin: 20px auto;
+    justify-content: center;
+}
+
+button {
+    margin-right: 15px;
+    height: 40px;
+    width: 100px;
+}
